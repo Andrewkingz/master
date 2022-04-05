@@ -1,0 +1,59 @@
+.mainCard{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.inp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(36, 10, 61);
+    display: flex;
+    
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn{
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+    background-color: red;
+    color: white;
+
+}
+.addTask{
+    width: 390px;
+    height: 30px;
+margin-bottom: 10px;
+
+}
+.contain{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+img{
+    height: 40px;
+    width: 40px;
+}
+
+.btn1{
+    height: 36px;
+    width: 100px;
+    margin-bottom: 10px;
+    background-color: red;
+    color: white;
+}
+
